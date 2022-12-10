@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-downloader-helper": "^2.1.5",
+    "puppeteer": "^19.4.0"
+  }
+}
